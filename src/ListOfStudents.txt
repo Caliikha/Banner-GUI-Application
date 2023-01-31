@@ -1,0 +1,5 @@
+4
+Layth Al-Khairulla;b00087225;CMP;dummy123
+MHD Maen Khaskieh;b00085766;COE;IlveCMP
+Omar Al-Khazali;b00088673;MTH;M@thIsNice
+Aariz Faridi;b00086502;CMP;IhateM@th
