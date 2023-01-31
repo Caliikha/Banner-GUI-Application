@@ -1,0 +1,3 @@
+2
+Hicham Hallal;hhallal@aus.edu;123;CSE;BestAdvisor
+Anjitha Mary Paul;amarypaul@aus.edu;456;CSE;BestLabInstructor
